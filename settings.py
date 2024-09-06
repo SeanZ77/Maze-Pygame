@@ -2,7 +2,7 @@
 screenWidth = 1280
 screenHeight = 720
 name = "Maze Runner 3D"
-targetFps = 30
+targetFps = 60
 
 #inputs
 forwardKey = 119

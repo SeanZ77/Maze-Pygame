@@ -70,4 +70,4 @@ map3 = [
 ]
 
 
-map = random.choice([map2])
+map = random.choice([map1, map2])
